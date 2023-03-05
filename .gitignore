@@ -1,0 +1,14 @@
+node_modules
+.parcel-cache/
+.sass-cache/
+package-lock.json
+dist/*
+dist-test
+!dist/.keep
+.idea
+*.map
+*.css
+.DS_STORE
+backup
+.eslintrc.js
+.env
